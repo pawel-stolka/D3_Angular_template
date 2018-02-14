@@ -1,0 +1,26 @@
+[{
+        "name": "paweł",
+        "status": "ok",
+        "count": 23
+    },
+    {
+        "name": "gaweł",
+        "status": "nope",
+        "count": 32
+    },
+    {
+        "name": "szaweł",
+        "status": "u la la",
+        "count": 51
+    },
+    {
+        "name": "charles",
+        "status": "yabadaba duuuu!",
+        "count": 34
+    },
+    {
+        "name": "magic",
+        "status": "yabadaba duuuu duuuuuuu!",
+        "count": 35
+    }
+]
